@@ -1,0 +1,6 @@
+{
+  "name": "Slake Annecy - Specialty Coffee & Alpine Bistro",
+  "description": "An interactive, animated website for Slake in Annecy featuring seasonal artisan brunch, specialty coffee, animated signature creations deck, continuous conveyor belt Google reviews, dedicated typographic menu page, inspiring philosophy quote, and fluid motion design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
